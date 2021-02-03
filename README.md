@@ -4,9 +4,13 @@ This project looks at a large fictitious tech company that is wanting to run som
 There are six CSV files:  **departments, dept_emp, dept_manager, employees, salaries** and **titles**.  
 I created an entity-relationship diagram (ERD) to show the relationships between the tables.
 
+
 This project has two main focuses: Data Engineering & Data Analysis with SQL.
 #### Data Engineering
+
 An [ERD](ERD.png) was used to create the schema to begin creating our SQL Database.
+![ERD](Engineering/ERD.png)
+
 #### Data Analysis
 After creating the ERD, the CSV files were imported into SQL using **pgAdmin 4**. I produced the following lists:
 1. The employee number, last name, first name, sex, and salary pf each employee.
