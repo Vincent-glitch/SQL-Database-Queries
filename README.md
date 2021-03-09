@@ -1,5 +1,5 @@
 # SQL-Database-Queries
----
+
 ### Tech Stack
 * SQL (pgAdmin 4)
 * Python (Jupyter Lab & Notebook)
