@@ -1,3 +1,14 @@
+# SQL-Database-Queries
+---
+### Tech Stack
+* SQL (pgAdmin 4)
+* Python (Jupyter Lab & Notebook)
+---
+### User Instructions
+* Clone the repository: git clone https://github.com/Vincent-glitch/SQL-Database-Queries.git 
+* Establish SQL database to query from
+* Import the tables into your database
+* Open the [Tables & Queries SQL](Analysis/TablesQueriesSQL.sql) schema in your SQL database and execute each statement.
 # SQL-Database-Queries 
 This project looks at a large fictitious tech company that is wanting to run some queries on their past employees. 
 
@@ -21,13 +32,4 @@ After creating the ERD, the CSV files were imported into SQL using **pgAdmin 4**
 6. All employees in the Sales department, including their employee number, last name, first name, and department name.
 7. All employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8. In descending order, the frequency count of employee last names, i.e., how many employees share each last name.
----
-### Tech Stack
-* SQL (pgAdmin 4)
-* Python (Jupyter Lab & Notebook)
 
-### User Instructions
-* Clone the repository: git clone https://github.com/Vincent-glitch/SQL-Database-Queries.git 
-* Establish SQL database to query from
-* Import the tables into your database
-* Open the [Tables & Queries SQL](Analysis/TablesQueriesSQL.sql) schema in your SQL database and execute each statement.
