@@ -9,7 +9,7 @@
 * Establish SQL database to query from
 * Import the tables into your database
 * Open the [Tables & Queries SQL](Analysis/TablesQueriesSQL.sql) schema in your SQL database and execute each statement.
-# SQL-Database-Queries 
+# Background
 This project looks at a large fictitious tech company that is wanting to run some queries on their past employees. 
 
 There are six CSV files:  **departments, dept_emp, dept_manager, employees, salaries** and **titles**.  
