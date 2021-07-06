@@ -19,6 +19,7 @@ I created an entity-relationship diagram (ERD) to show the relationships between
 This project has two main focuses: Data Engineering & Data Analysis with SQL.
 #### Data Engineering
 
+
 An [ERD](Engineering/ERD.png) was used to create the schema to begin creating our SQL Database.
 ![ERD](Engineering/ERD.png)
 
