@@ -20,7 +20,7 @@ This project has two main focuses: Data Engineering & Data Analysis with SQL.
 #### Data Engineering
 
 
-An [ERD](Engineering/ERD.png) was used to create the schema to begin creating our SQL Database.
+Used an [ERD](Engineering/ERD.png)  to create the schema to begin creating the SQL Database.
 ![ERD](Engineering/ERD.png)
 
 #### Data Analysis
